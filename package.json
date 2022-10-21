@@ -1,16 +1,16 @@
 {
-"name": "databet",
-"theme": "databet",
-"version": "5.8.4",
-"description": "databet ทางเข้าเว็บแทงบอลเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
-"keywords": [
-"databet",
-"databet เครดิตฟรี",
-"databet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/databet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "databet",
+  "theme": "databet",
+  "version": "5.9.0",
+  "description": "databet ทางเข้าเว็บแทงบอลเว็บตรง ไม่มีขั้นต่ำ รับเครดิตฟรี",
+  "keywords": [
+    "databet",
+    "databet เครดิตฟรี",
+    "databet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/databet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
